@@ -1,0 +1,147 @@
+logout
+ls
+clear
+ls
+whoami
+pwd
+man man
+man ls
+ls -l
+ls -la
+ls -a
+ls -la
+clear
+man apropos
+man man 
+man 6
+man games
+man man
+games
+play games
+echo hola
+echo "hola"
+echo hola mundo
+echo hola abuela como estas
+echo $home
+echo $HOME
+ls
+cd repogit
+ls
+/help
+help
+clear
+ls
+ls -la
+cd ..
+ls
+cat README
+cat README -la
+celar
+clear
+cat README
+cat
+clear
+git clone https://github.com/LautaroCardozo/cardozo_vagrant.git
+ls
+cd cardozo_vagrant
+cd ..
+cd cardozo_vagrant/
+ls
+ls-la
+ls -ls
+ls -la
+cat README.md
+cat README
+clear
+history
+history >historial.txt
+ls
+cat historial.txt 
+git status 
+
+git status 
+git commit -m "mi primer commit"
+git config --global user.email "[200~lautycardozo01@gmail.com"
+git config --global user.email "lautycardozo01@gmail.com"
+git commit -m "mi primer commit"
+git config --global user.email "lautycardozo01@gmail.com"
+git commit -m "mi primer commit"
+history
+pwd
+cd vagrant
+ls
+cd cardozo_vagrant/
+ls
+git status 
+git commit -m
+git commit -m "mi primer commit"
+ls
+cd cardozo_vagrant/
+ls
+git commit -m "mi primer commit"
+git config --global user.name "LautaroCardozo"
+git commit -m "mi primer commit"
+git push "mi primer push"
+git push cardozo_vagrant
+git commit -m "mi primer commit"
+git status
+git push
+git pushgit push
+git push
+ls -la
+cd repogit
+ls
+git clone git@github.com:LautaroCardozo/cardozo_vagrant.git
+ls
+cd cardozo_vagrant/
+lsls
+ls
+history
+history > historial.txt
+ls
+git status
+git add historial.txt 
+git status
+git commit -m "Mi primer commit"
+git push 
+quit
+vagrant logout
+logout
+lsla
+;s
+ls
+ssh-keygen -t ed25519
+ls
+ls -la
+cd .ssh
+ls -la
+cat id_ed25519.pub
+cd repogit
+cd repogit/TPAySO/
+ls
+echo "Comando dump traffic= sudo tcdump" >> "comando_dump_net.txt"
+ls
+cat comando_dump_net.txt 
+git status
+git commit -m "ADD:Listado de usuarios ordenada"
+git push 
+git status
+git add . 
+git commit -m "ADD:Comando para capturar y analizar el trafico de red"
+git push 
+echo <<<EOD 
+echo <<<EOD "hola hola hola
+ls
+echo "Alumno:Lautaro Cardozo" >> README.md 
+cat README.md 
+echo "Division:113" >> README.md 
+cat README.md 
+echo "Turno:Ma" >> README.md 
+cat README.md 
+git status
+git add . 
+git commit -m "Modificacion README"
+git push 
+history -a
+ls
+history -a
