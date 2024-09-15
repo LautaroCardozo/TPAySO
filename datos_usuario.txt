@@ -1,2 +1,3 @@
 Usuario=vagrant
 model name	: AMD Ryzen 5 5600X 6-Core Processor
+model		: 33
